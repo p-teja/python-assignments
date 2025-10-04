@@ -1,0 +1,12 @@
+a=input("enter the name")
+b=int(input("enter the id"))
+c=int(input("enter the age"))
+d=int(input("enter the height"))
+e=int(input("enter the weight"))
+f=input("enter the gender")
+print(a,b,c,d,e,f)
+'''print(b)
+print(c)
+print(d)
+print(e)
+print(f)'''

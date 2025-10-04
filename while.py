@@ -1,0 +1,11 @@
+flag=True
+while(flag==True):
+	data=input("enter the data")
+	print(data)
+	no=int(input("enter 1 torepeat 2 to terminate"))
+	if(no==1):
+		flag=True
+	else:
+		flag=False
+		
+print("thank you")
